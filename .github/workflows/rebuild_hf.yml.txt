@@ -1,4 +1,6 @@
 # Just change the cron time and Set timezone lines if it necessarry. Or secret variables if you set them different.
+# Disabled for a while.
+# IF you still want to use it remove .txt file extension and keep it with .yml
 
 name: Rebuild HF
 on:
